@@ -24,12 +24,13 @@ Milestones
 ----------
 
 v1.0.1
-	- Marker in Session(?) für User die via Cookie erfasst werden damit nicht bei jeden Seitenaufruf eine DB-Anfrage
-	erzeugt wird.
 
-v1.1 
-	- Cronjobs um Benutzer nach x Tagen Inaktivität automatisch zu löschen
-	- Cronjob um Benutzer zu löschen die ihre Registrierung nach x Tagen noch nicht abgeschlossen haben
-	- Verschiedene Formate für die Anzeige der letzten Aktivität (vor x Tagen/Monate; zuletzt am xx.xx.xx; usw.)
-	- Farbige herviorhebung für Benutzer die über einen bestimmten Zeitraum inaktiv waren  
-	- Backend für Einstellungen
+- Marker in Session(?) für User die via Cookie erfasst werden damit nicht bei jeden Seitenaufruf eine DB-Anfrage erzeugt wird.
+
+v1.1
+
+- Cronjobs um Benutzer nach x Tagen Inaktivität automatisch zu löschen
+- Cronjob um Benutzer zu löschen die ihre Registrierung nach x Tagen noch nicht abgeschlossen haben
+- Verschiedene Formate für die Anzeige der letzten Aktivität (vor x Tagen/Monate; zuletzt am xx.xx.xx; usw.)
+- Farbige herviorhebung für Benutzer die über einen bestimmten Zeitraum inaktiv waren
+- Backend für Einstellungen
