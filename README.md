@@ -11,7 +11,7 @@ Benutzer filtern kann.
 
 
 Changelog
-=========
+---------
 
 v0.0 example.php https://gist.github.com/1512706
 	Idee zum Plugin und erster Entwurf
@@ -21,7 +21,11 @@ v1.0 https://github.com/RalfAlbert/WP-Last-Activity
 	
 
 Milestones
-==========
+----------
+
+v1.0.1
+	- Marker in Session(?) für User die via Cookie erfasst werden damit nicht bei jeden Seitenaufruf eine DB-Anfrage
+	erzeugt wird.
 
 v1.1 
 	- Cronjobs um Benutzer nach x Tagen Inaktivität automatisch zu löschen
